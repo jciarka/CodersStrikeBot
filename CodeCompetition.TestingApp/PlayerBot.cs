@@ -48,7 +48,7 @@ namespace CodeStrikes.TestingApp
 
         public override string ToString()
         {
-            return "Boxer";
+            return "Player";
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Release\CodeStrikes.TestingApp.exe.config
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Release\CodeStrikes.TestingApp.exe
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Release\CodeStrikes.TestingApp.pdb
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Release\CodeStrikes.Sdk.dll
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Release\CodeStrikes.Sdk.pdb
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Release\CodeStrikes.TestingApp.csprojAssemblyReference.cache
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Release\CodeStrikes.TestingApp.csproj.CoreCompileInputs.cache
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Release\CodeStrikes.TestingApp.csproj.CopyComplete
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Release\CodeStrikes.TestingApp.exe
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Release\CodeStrikes.TestingApp.pdb

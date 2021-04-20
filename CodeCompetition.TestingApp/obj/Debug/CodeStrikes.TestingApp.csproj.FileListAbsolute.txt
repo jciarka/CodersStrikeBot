@@ -1,0 +1,27 @@
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.exe.config
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.exe
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.pdb
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.Sdk.dll
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csprojAssemblyReference.cache
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csproj.CoreCompileInputs.cache
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csproj.CopyComplete
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.exe
+C:\TFS\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.pdb
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.exe.config
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.exe
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.pdb
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.Sdk.dll
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csprojAssemblyReference.cache
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csproj.CoreCompileInputs.cache
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csproj.CopyComplete
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.exe
+C:\Users\ciark\Documents\Coders strike\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.pdb
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.exe.config
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.exe
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.TestingApp.pdb
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\bin\Debug\CodeStrikes.Sdk.dll
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csprojAssemblyReference.cache
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csproj.CoreCompileInputs.cache
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.csproj.CopyComplete
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.exe
+C:\Users\ciark\Documents\Coders strike\II podejscie\CodeCompetition.Sdk\CodeCompetition.Sdk\CodeCompetition.TestingApp\obj\Debug\CodeStrikes.TestingApp.pdb
